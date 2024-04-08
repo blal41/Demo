@@ -1,4 +1,4 @@
-import Header from './Pages/Header.jsx'
+import Footer from './Pages/Footer.jsx'
 import './App.css'
 
 function App() {
@@ -6,7 +6,7 @@ function App() {
   return (
     <>
       <h1> this is production level application</h1>
-      <Header />
+      <Footer />
     </>
   )
 }
