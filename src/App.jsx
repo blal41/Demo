@@ -5,8 +5,7 @@ function App() {
 
   return (
     <>
-      <h1> this is production level application</h1>
-      <About />
+      <h1> This is Demo project for Learn Github</h1>
     </>
   )
 }
